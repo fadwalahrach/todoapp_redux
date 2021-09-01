@@ -1,0 +1,15 @@
+.hide { 
+    display:none;
+    visibility: hidden;
+}
+
+.taskDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.taskSpan {
+    display: flex;
+    align-items: center;
+}
+
